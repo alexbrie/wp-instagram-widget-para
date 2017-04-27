@@ -6,7 +6,7 @@ That's all it does differently.
 
 I just needed this in order to fit the theme (Stela) of my Wordpress blog, so I tweaked the existing plugin. I'm sharing it with the world in case others might need the same functionality
 
-
+![WP Instagram Widget Paragraphed](https://github.com/alexbrie/wp-instagram-widget-para/blob/master/screenshot.png?raw=true)
 
 ![WP Instagram Widget](http://cloud.scott.ee/images/wp-instagram-widget.png)
 
