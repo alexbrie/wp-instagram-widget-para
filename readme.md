@@ -1,3 +1,9 @@
+# WP Instagram Widget Paragraphed
+* Contributors: [@alexbrie](http://twitter.com/alexbrie)
+This is a slight tweak of WP Instagram Widget that lists the instagram photos as paragraphs and lets the user input a text paragraph between the images and the link. This is it. I just needed this in order to fit the theme (Stela) of my Wordpress blog, so I tweaked the existing plugin. I'm sharing it with the world in case others might need the same functionality
+
+
+
 ![WP Instagram Widget](http://cloud.scott.ee/images/wp-instagram-widget.png)
 
 # WP Instagram Widget
@@ -168,4 +174,3 @@ In version 1.9.6 you can now use a filter to change the location of your custom 
 
 ####1.0
 * Initial release
-
